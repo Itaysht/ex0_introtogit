@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Green
+Favorite food: Schnitzel
+Favorite musician/band: POLO G
+Favorite movie: The Office
+Requested grade in the course: 100
